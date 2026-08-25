@@ -4,11 +4,12 @@
 body{
     background-color: #131720;
     font-family: sans-serif;
+    color: white;
 }
-h3{
+/* h3{
     color: white;
 
-}
+} */
 .topnav {
     overflow: hidden;
     background-color: #131720;
@@ -38,9 +39,9 @@ form{
     align-items: center;
 }
 input{
-    all: unset;
+    /* all: unset; */
     font: 15px system-ui;
-    color:#fff ;
+    color: black ;
     height: 100%;
     width: 100%;
     padding: 6px 9px;
